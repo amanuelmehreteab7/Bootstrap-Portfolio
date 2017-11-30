@@ -1,0 +1,24 @@
+.navbar-brand{
+  background-color: yellow;
+
+nav{
+  background-color: yellow;
+}
+.navbar{
+  background-color: blue;
+}
+.navbar-right{
+  background-color: green;
+}
+.color{
+  background-color: black;
+}
+.bkc{
+  background-color: orange;
+}
+.row{
+  background-color: blue;
+}
+.col{
+  background-color: green;
+}
